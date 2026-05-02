@@ -1,0 +1,8 @@
+[2026-05-02T05:54:01.321Z] GET /schedule 200 - 129ms
+[2026-05-02T05:54:17.035Z] GET /priority-inbox 200 - 98ms
+[2026-05-02T06:56:39.432Z] GET /priority-inbox 500 - 78ms
+[2026-05-02T06:56:46.196Z] POST /priority-inbox 404 - 2ms
+[2026-05-02T07:07:05.092Z] GET /schedule 200 - 205ms
+[2026-05-02T07:07:05.546Z] GET /priority-inbox 200 - 165ms
+[2026-05-02T07:07:49.414Z] GET /schedule 200 - 120ms
+[2026-05-02T07:08:23.073Z] GET /priority-inbox 200 - 83ms
